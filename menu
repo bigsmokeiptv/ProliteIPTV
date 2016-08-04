@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+
+<title>LIVE EVENTS/GAMES</title>
+<thumbnail>http://ipcmz1jjy9s29h4r41bi0uf1.wpengine.netdna-cdn.com/wp-content/uploads/2014/04/youtube-live-512x500.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/fanart.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/List/LIVE-GAMES</externallink>
+</item>
+
+item>
+<title>LIVE BPL</title>
+<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/fanart.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/List/LIVE-BPL</externallink>
+</item>
+
+<item>
+<title>24/7 SPORTS LIST</title>
+<thumbnail>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/sports-logos-2.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/fanart.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/List/Sports</externallink>
+</item>
+
 <item>
 <title>Sports</title>
 <thumbnail>https://www.anony.ws/image/Nnfo</thumbnail>
