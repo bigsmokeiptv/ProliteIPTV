@@ -32,23 +32,3 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] Server DmbShare[/B] [/COLOR][COLOR lightblue][I]IT • DE • UK • USA • AR • FR • EXYU[/I][/COLOR]</title>
-<thumbnail>https://goo.gl/jGdtEh</thumbnail><fanart>https://goo.gl/MoSDXO</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/cp.dmbshare.net:8000\/.*?get.php.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
